@@ -1,0 +1,10 @@
+com\cookieclicker\qa\utilities\TestUtils.class
+com\cookieclicker\qa\pages\CookiesCounter.class
+com\cookieclicker\qa\utilities\WebDriverListener.class
+com\cookieclicker\qa\base\TestBase.class
+com\cookieclicker\qa\utilities\RetryAnalyzer.class
+com\cookieclicker\qa\testdata\ExcelDataProvider.class
+com\cookieclicker\qa\utilities\SeleniumActions.class
+com\cookieclicker\qa\utilities\AnnotationTransformer.class
+com\cookieclicker\qa\utilities\TestListner.class
+com\cookieclicker\qa\reports\ExtentReporterNG.class
